@@ -61,9 +61,8 @@
 <p align="left">📧 Email: shrabonmolla007@gmail.com<br>📱 Phone: 01581736606</p>
 
 ###
+<p float="left">
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true&theme=purple_passion)](https://github.com/shrabonmolla)
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true&theme=tokyonight)](https://github.com/shrabonmolla)
-
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrabonmolla&layout=compact&theme=tokyonight)]
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shrabonmolla)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrabonmolla&layout=compact&theme=purple_passion)]
+</p>
