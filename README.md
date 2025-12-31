@@ -62,7 +62,7 @@
 
 ###
 <p float="left">
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true&theme=purple_passion)](https://github.com/shrabonmolla)
-
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrabonmolla&layout=compact&theme=purple_passion)]
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true&theme=purple_passion" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrabonmolla&layout=compact&theme=purple_passion" width="45%" />
 </p>
+
