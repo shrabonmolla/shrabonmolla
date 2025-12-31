@@ -8,7 +8,7 @@
 
 ###
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true)](https://github.com/shrabonmolla)
+
 
 
 
@@ -61,3 +61,9 @@
 <p align="left">📧 Email: shrabonmolla007@gmail.com<br>📱 Phone: 01581736606</p>
 
 ###
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true&theme=tokyonight)](https://github.com/shrabonmolla)
+
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrabonmolla&layout=compact&theme=tokyonight)]
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shrabonmolla)
