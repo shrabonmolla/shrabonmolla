@@ -8,7 +8,8 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrabonmolla)](https://github.com/shrabonmolla/github-readme-stats)
+![Shrabon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrabonmolla&show_icons=true&theme=default)
+
 
 <h2 align="left">Current Activities</h2>
 
