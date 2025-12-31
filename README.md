@@ -8,7 +8,8 @@
 
 ###
 
-![Shrabon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrabonmolla&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrabonmolla&show_icons=true)](https://github.com/shrabonmolla)
+
 
 
 <h2 align="left">Current Activities</h2>
